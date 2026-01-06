@@ -5,6 +5,7 @@ lwjgl
 # minecraft
 *.dat
 *.jar
+frames.zip
 
 # idea
 out/
