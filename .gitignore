@@ -1,0 +1,12 @@
+video.mp4
+frames/
+lwjgl
+
+# minecraft
+*.dat
+*.jar
+
+# idea
+out/
+.idea/
+*.iml
